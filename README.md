@@ -1,0 +1,2 @@
+# CustomJoinMessage
+Spigotでカスタムメッセージをymlで設定できます。
