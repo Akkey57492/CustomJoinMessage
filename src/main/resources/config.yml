@@ -1,0 +1,7 @@
+Messages:
+  Join:
+    Message: "{player} がサーバーへ参加しました。" # 参加メッセージ(「{player}」にプレイヤー名が入ります)
+    Color: "yellow" # 色指定(green, yellow, red)
+  Leave:
+    Message: "{player} がサーバーから離脱しました。" # 退出メッセージ(「{player}」にプレイヤー名が入ります)
+    Color: "yellow" # 色指定(green, yellow, red)

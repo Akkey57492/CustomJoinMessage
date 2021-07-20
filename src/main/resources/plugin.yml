@@ -1,0 +1,14 @@
+name: CustomJoinMessage
+version: ${project.version}
+main: message.custom.customjoinmessage.CustomJoinMessage
+api-version: 1.17
+authors: [ Akkey57492 ]
+description: ymlで参加メッセージと離脱メッセージを設定
+
+commands:
+  msgreload:
+    description: ymlファイルをリロードします。
+    usage: /msgreload
+    permission: cjm.reload
+    permission-message: 権限が足りません。cjm.reload権限が必要です。
+    aliases: [cjmreload, cjmr, mr]
