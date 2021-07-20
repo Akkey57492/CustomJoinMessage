@@ -19,10 +19,10 @@ Spigotでカスタムメッセージをymlで設定できます。
 ## msgreload
 ymlファイルをリロードします。
 
-## エイリアス
+### エイリアス
 - cjmreload
 - cjmr
 - mr
 
-## 権限
+### 権限
 - cjm.reload
