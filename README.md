@@ -14,3 +14,15 @@ Spigotでカスタムメッセージをymlで設定できます。
 
 # Java
 - Java16
+
+# コマンド
+## msgreload
+ymlファイルをリロードします。
+
+## エイリアス
+- cjmreload
+- cjmr
+- mr
+
+## 権限
+- cjm.reload
